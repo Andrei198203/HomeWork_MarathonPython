@@ -1,0 +1,12 @@
+print('Hello World')
+#user_input = input('>>>')
+
+print (len("Hello"))
+
+name_list = ['Bill', 'Jill', 'Garry']
+
+print(len(name_list))
+print(list(range(10)))
+print(type(name_list))
+step = 10
+print(list(range(100, 10, -step)))
